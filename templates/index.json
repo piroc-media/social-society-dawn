@@ -15,15 +15,15 @@
         "image_YjEcKn": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/IMG_1991.jpg"
+            "image": "shopify://shop_images/img_4473.jpg"
           }
         },
         "content_wBFytM": {
           "type": "content",
           "settings": {
-            "subtitle": "<p>Dream a little Dream</p>",
-            "headline": "<p>ELEVATED SLEEPOVERS</p>",
-            "description": "<p>Turn an ordinary sleepover into an unforgettable experience with our styled slumber parties—complete with cozy setups, themed décor, and zero stress for parents.</p><p><a href=\"https://thesocialsociety.com/pages/slumber-parties\" target=\"_blank\" title=\"https://thesocialsociety.com/pages/slumber-parties\">BOOK YOUR DREAM PARTY TODAY</a></p>"
+            "subtitle": "<p>a little love goes a long way</p>",
+            "headline": "<p>Spread the Love</p>",
+            "description": "<p>Whether you’re shopping for your Valentine, your Galentine, or a little self-love moment, our Valentine’s Day merch brings the fun, the charm, and the heart-eyes. Grab something sweet before it’s gone—this collection won’t last forever. 💕</p><p><a href=\"/collections/valentines-day\" target=\"_blank\" title=\"Valentine's Day\">SHOP VALENTINE'S DAY NOW</a></p>"
           }
         }
       },
@@ -36,7 +36,7 @@
         ".section-hero .section-hero--content .titles {margin-top: 6.9vh;}"
       ],
       "settings": {
-        "color": "violet"
+        "color": "red"
       }
     },
     "featured_collection": {
