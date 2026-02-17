@@ -15,15 +15,15 @@
         "image_YjEcKn": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/img_4473.jpg"
+            "image": "shopify://shop_images/IMG_7957.jpg"
           }
         },
         "content_wBFytM": {
           "type": "content",
           "settings": {
-            "subtitle": "<p>a little love goes a long way</p>",
-            "headline": "<p>Spread the Love</p>",
-            "description": "<p>Whether you’re shopping for your Valentine, your Galentine, or a little self-love moment, our Valentine’s Day merch brings the fun, the charm, and the heart-eyes. Grab something sweet before it’s gone—this collection won’t last forever. 💕</p><p><a href=\"/collections/valentines-day\" target=\"_blank\" title=\"Valentine's Day\">SHOP VALENTINE'S DAY NOW</a></p>"
+            "subtitle": "<p>Go Green</p>",
+            "headline": "<p>Add a Rainbow</p>",
+            "description": "<p>and make it a lucky celebration. Stock up on everything you need for St. Patrick’s Day! We have tons of green décor, shamrock goodies, and rainbow party supplies perfect for classrooms, parties, parades, and festive gatherings.</p><p><a href=\"/collections/st-patricks-day\" target=\"_blank\" title=\"St. Patrick's Day\">SHOP ST. PATRICK'S DAY</a></p>"
           }
         }
       },
@@ -36,7 +36,7 @@
         ".section-hero .section-hero--content .titles {margin-top: 6.9vh;}"
       ],
       "settings": {
-        "color": "red"
+        "color": "green"
       }
     },
     "featured_collection": {
@@ -186,7 +186,7 @@
         "collection_nT9pcz": {
           "type": "collection",
           "settings": {
-            "collection": "anniversary"
+            "collection": "lunar-new-year"
           }
         },
         "collection_XjgcqD": {
