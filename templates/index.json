@@ -15,15 +15,15 @@
         "image_YjEcKn": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/IMG_7957.jpg"
+            "image": "shopify://shop_images/IMG_8316.jpg"
           }
         },
         "content_wBFytM": {
           "type": "content",
           "settings": {
-            "subtitle": "<p>Go Green</p>",
-            "headline": "<p>Add a Rainbow</p>",
-            "description": "<p>and make it a lucky celebration. Stock up on everything you need for St. Patrick’s Day! We have tons of green décor, shamrock goodies, and rainbow party supplies perfect for classrooms, parties, parades, and festive gatherings.</p><p><a href=\"/collections/st-patricks-day\" target=\"_blank\" title=\"St. Patrick's Day\">SHOP ST. PATRICK'S DAY</a></p>"
+            "subtitle": "<p>Hip to the Hop</p>",
+            "headline": "<p>Set the Scene for an Egg-cellent Easter </p>",
+            "description": "<p>Make your Easter table as fun as the celebration itself. From adorable plates, cups, and napkins to interactive color-in placemats that keep little hands busy, we have everything you need to create a festive and memorable gathering. Set the table, gather your people, and let the Easter fun begin<br/><a href=\"/collections/easter\" target=\"_blank\" title=\"Easter\">SHOP EASTER NOW</a></p>"
           }
         }
       },
@@ -36,7 +36,7 @@
         ".section-hero .section-hero--content .titles {margin-top: 6.9vh;}"
       ],
       "settings": {
-        "color": "green"
+        "color": "deep-blue"
       }
     },
     "featured_collection": {
